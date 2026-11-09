@@ -74,4 +74,4 @@ Based on 33 Bank of Canada policy-rate changes (19 hikes, 14 cuts) from April 20
 - Add quarterly earnings (net interest margin) to link rate changes to bank fundamentals.
 
 ## Author
-Samaneh Kohandani · [GitHub](https://github.com/Samanekohandani) · [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- replace with your LinkedIn link -->
+Samaneh Kohandani · [GitHub](https://github.com/Samanekohandani) · [LinkedIn](www.linkedin.com/in/samanehkohandani) <!-- replace with your LinkedIn link -->
