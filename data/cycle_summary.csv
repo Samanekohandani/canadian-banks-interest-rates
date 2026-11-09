@@ -1,0 +1,15 @@
+bank,cycle,annual_return,annual_volatility,trading_days
+BMO,Cutting cycle,28.18,23.51,1723
+BMO,Hiking cycle,4.64,14.63,2403
+CIBC,Cutting cycle,29.03,21.8,1723
+CIBC,Hiking cycle,6.29,15.25,2403
+National Bank,Cutting cycle,24.19,24.79,1723
+National Bank,Hiking cycle,13.98,14.45,2403
+RBC,Cutting cycle,23.49,19.81,1723
+RBC,Hiking cycle,9.61,14.7,2403
+Scotiabank,Cutting cycle,25.54,21.56,1723
+Scotiabank,Hiking cycle,3.19,14.86,2403
+TD,Cutting cycle,28.3,21.49,1723
+TD,Hiking cycle,5.89,14.83,2403
+TSX,Cutting cycle,13.3,17.1,1723
+TSX,Hiking cycle,4.14,12.19,2403
